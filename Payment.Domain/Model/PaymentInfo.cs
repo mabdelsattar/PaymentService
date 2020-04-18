@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Web;
 
-namespace PaymentService.Model
+namespace Payment.Domain.Model
 {
     [DataContract]
     public class PaymentInfo

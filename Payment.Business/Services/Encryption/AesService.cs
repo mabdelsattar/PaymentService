@@ -1,16 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Web;
 
-namespace PaymentService
+namespace Payment.Business.Services.Encryption
 {
-    public class AesOperation
+    public class AesService
     {
-        public string Decrypt(string textToDecrypt,string key)
+        public string Decrypt(string textToDecrypt, string key)
         {
             try
             {
