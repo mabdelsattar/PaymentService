@@ -1,0 +1,9 @@
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\bin\PaymentService.dll.config
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\bin\PaymentService.dll
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\bin\PaymentService.pdb
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\obj\Debug\PaymentService.dll
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\obj\Debug\PaymentService.pdb
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\obj\Debug\PaymentService.csprojAssemblyReference.cache
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\bin\Newtonsoft.Json.dll
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\bin\Newtonsoft.Json.xml
+C:\Users\MohammedAbdelSattar\source\repos\PaymentService\PaymentService\obj\Debug\PaymentService.csproj.CopyComplete
